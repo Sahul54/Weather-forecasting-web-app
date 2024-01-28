@@ -1,17 +1,17 @@
-##Weather Forecast Web App
-#Overview:
+## Weather Forecast Web App
+# Overview:
 Stay informed about the weather with our Weather Forecast app. Get real-time updates on current conditions and a 5-day forecast to plan your activities effectively.
 
-#Features:
+# Features:
 
 Current Weather: Temperature, humidity, wind speed, and more.
 Forecast: Detailed 5-day weather outlook.
 Location-based: Accurate information based on your location.
 
-#API Key:
+# API Key:
 Obtain an API key from a weather provider and add it to the .env file.
 
-#Technologies Used:
+# Technologies Used:
 
 HTML
 CSS
@@ -19,7 +19,7 @@ JS
 Weather API
 
 
-#Contributing:
+# Contributing:
 
 Fork the repository.
 Create a new branch: git checkout -b feature/new-feature`.
